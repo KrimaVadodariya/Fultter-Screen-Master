@@ -36,7 +36,7 @@ dependencies:
   google_fonts: ^3.0.1
   carousel_slider: ^4.1.1
   readmore: ^2.1.0
-
+  http: ^0.13.5
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -62,6 +62,7 @@ flutter:
   assets:
     - assets/vegetable/
     - assets/fruit/
+    - assets/json/localjson.json
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

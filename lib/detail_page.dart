@@ -112,7 +112,7 @@ class _DetailPageState extends State<DetailPage> {
               padding: const EdgeInsets.symmetric(horizontal: 20),
               decoration: BoxDecoration(
                   borderRadius:
-                      const BorderRadius.vertical(top: Radius.circular(30)),
+                  const BorderRadius.vertical(top: Radius.circular(30)),
                   color: Color(0xFFF8FAFF),
                   boxShadow: [
                     BoxShadow(
@@ -178,6 +178,7 @@ class _DetailPageState extends State<DetailPage> {
                             style: GoogleFonts.poppins().copyWith(
                               color: Color(0xFF102A68),
                               fontWeight: FontWeight.bold,
+
                             ),
                           )
                         ],

@@ -1,6 +1,6 @@
 List<String> categories = [
   '  Fruits',
   'Vegetable',
-  'Eggs & Meat',
+  'CRUD',
   'Rice & Oils'
 ];
